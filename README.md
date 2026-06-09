@@ -1,4 +1,4 @@
-# 修复 Codex 反复 Reconnecting 1/5
+# 修复 Codex 反复 Reconnecting 1/5  Reconnecting 5/5
 
 这是一个面向 Windows 用户的 Codex Skill，用于诊断和修复：
 
