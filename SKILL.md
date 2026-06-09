@@ -1,5 +1,5 @@
 ---
-name: skill
+name: SKILL
 description: Diagnose and fix repeated "Reconnecting 1/5" through "Reconnecting 5/5" errors in the Codex Windows desktop app when a local proxy such as v2rayN, Clash, Mihomo, or a Windows system proxy is in use. Use when Codex streaming disconnects or Codex child processes may not inherit the proxy.
 ---
 
